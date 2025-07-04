@@ -12,7 +12,7 @@ Welcome to **Day 1** of my Artificial Intelligence and Machine Learning journey!
   - Unsupervised Learning
   - Reinforcement Learning
 - Real-world applications of AI/ML
-- Setting up the Python environment (Anaconda, Jupyter Notebook, or VS Code)
+- Setting up the Python environment in VS Code
 - Installed essential libraries:
   - `numpy`
   - `pandas`
