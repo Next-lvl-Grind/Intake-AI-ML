@@ -20,7 +20,7 @@ Welcome to **Day 1** of my Artificial Intelligence and Machine Learning journey!
   - `scikit-learn`
 
 ## 🛠️ Tools Used
-- Python 3.x
+- Python
 - VS Code
 - Terminal
 
